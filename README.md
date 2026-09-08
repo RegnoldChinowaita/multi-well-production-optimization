@@ -22,7 +22,7 @@ Multiphase flow behavior was modeled in PIPESIM using standard correlations to e
 ## Repository Contents
 
 - `Production_Term_Project_Report.pdf` — full project report (abstract, methodology, well-by-well results, economics, and conclusions).
-- `Well_A.pips`, `Well_network_Year_0.pips`, `Well_network_RIGHT_NOW.pips`, `Well_network_Year_5.pips` — PIPESIM well and network models at different points in field life.
+- `Well_A.pips`, `Well_Network_Year_0.pips`, `Well_Network_Current.pips`, `Well_Network_Year_5.pips` — PIPESIM well and network models at different points in field life.
 - `Production_Project_Workbook.xlsx` — supporting production and economic calculations.
 
 ## Team
